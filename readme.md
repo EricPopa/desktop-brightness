@@ -18,4 +18,4 @@ Version Control of Packages:
 
 Activate venv:
 source .venv/Scripts/Activate
-/.venv/Scripts/Activate
+./.venv/Scripts/Activate
